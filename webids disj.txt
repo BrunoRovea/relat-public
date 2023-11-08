@@ -1,0 +1,60 @@
+WebID teste
+F1DPAWHmhGUTeUqhDTAsENdgDgg_kBAAUEktU0lSSVxBRi5PUERULlBST0NFU1NPUy5TVVBFUlZJU0FPX0xJTUlURVMuRVFVSVBBTUVOVE9TLkxJTkhBUy5MSV81MDBLVl9NRC1WSEExLkVTVEFETw
+
+WebID comando de parada U01
+F1DPAWHmhGUTeUqhDTAsENdgDgzRYAAAUEktU0lSSVxVMDEgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNDSU9OQURPICAgICAuU1Y
+
+WebID Comando de partida U01
+F1DPAWHmhGUTeUqhDTAsENdgDgyRYAAAUEktU0lSSVxVMDEgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDQ0lPTkFETyAgICAuU1Y
+
+Gerador de textos no formato HTML
+http://fdradmin.fdr.org.br/conversor/index.php
+
+
+
+
+
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\U11     .SUPERV/CONTR UN COMANDO DE PARADA ACIONADO      .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\U01     .REG_VELOC VELOC UNID MAYOR/IGUAL 80% V.NOM      .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\U18A    .REG_VELOC UNIDADE MAIOR 80% V. NOM              .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\U18A    .TURBINA BOMBA 3 DRENAGEM                        .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\U05	 .SUPERV/CONTR UN COMANDO DE PARTIDA ACCIONADO    .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\U10	 .SUPERV/CONTR UN COMANDO DE PARTIDA ACIONADO     .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\U18A	 .SUPERV/CONTR UN COMANDO DE PARTIDA ACIONADO     .SV
+
+
+
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\U11     .SUPERV/CONTR UN COMANDO DE PARADA ACIONADO      .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U01 INT 05U01 A-05                         .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV   
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U02 INT 85U02 A-07                         .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U03 INT 05U03 A-10                         .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U03/04 INT 45U34 A-11                      .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U04 INT 85U04 A-12                         .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U05 INT 05U05 A-17                         .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U05/06 INT 45U56 A-18                      .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U06 INT 85U06                              .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U07 INT 05U07 A-22                         .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U07/08 INT 45U78 A-23                      .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U08 INT 85U08                              .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U09 INT 05U09 A-25                         .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U09/9A INT 45U99 A-26                      .SV
+
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U10 DISJ 06U10 A-31                         .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U10/11 DISJ 46U01 A-32                      .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U11 DISJ 86U11 A-33                         .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U12 DISJ 06U12 A-36                         .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U12/13 DISJ 46U23 A-37                      .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U13 DISJ 86U13 A-38                         .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U14 DISJ 06U14 A-43                         .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U14/15 DISJ 46U45 A-44                      .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U15 DISJ 86U15 A-45                         .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U16 DISJ 06U16 A-50                         .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U16/17 DISJ 46U67 A-51                      .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U17 DISJ 86U17 A-52                         .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U18 DISJ 06U18 A-55                         .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U18/18A DISJ 46U88 A-56                     .SV
+
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U9A INT 85U9A ABIERTO                      .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U18A INT 86U8A ABIERTO                     .SV
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U9A INT 85U9A CERRADO                      .SV

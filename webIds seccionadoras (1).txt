@@ -1,0 +1,50 @@
+
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U01 SEC 95U01 A-05                         .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDgmiYAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwMSBTRUMgOTVVMDEgQS0wNSAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U02 SEC 95U02 A-07                         .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDgpSYAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwMiBTRUMgOTVVMDIgQS0wNyAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U03 SEC 95U03 A-10                         .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDgaCcAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwMyBTRUMgOTVVMDMgQS0xMCAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U04 SEC 95U04 A-12                         .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDgcycAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwNCBTRUMgOTVVMDQgQS0xMiAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U05 SEC 95U05 A-17                         .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDgqykAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwNSBTRUMgOTVVMDUgQS0xNyAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U06 SEC 95U06 A-19                         .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDgtikAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwNiBTRUMgOTVVMDYgQS0xOSAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U07 SEC 95U07 A-22                         .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDggygAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwNyBTRUMgOTVVMDcgQS0yMiAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U08 SEC 95U08 A-24                         .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDgjigAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwOCBTRUMgOTVVMDggQS0yNCAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U09 SEC 95U09 A-25                         .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDglSgAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwOSBTRUMgOTVVMDkgQS0yNSAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U9A SEC 95U9A A-27                         .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDg_zoAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1U5QSBTRUMgOTVVOUEgQS0yNyAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U10 SEC 96U10 A-31                          .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDgxCoAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTEwIFNFQyA5NlUxMCBBLTMxICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U11 SEC 96U11 A-33                          .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDgzyoAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTExIFNFQyA5NlUxMSBBLTMzICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U12 SEC 96U12 A-36                          .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDg4SoAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTEyIFNFQyA5NlUxMiBBLTM2ICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U13 SEC 96U13 A-38                          .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDg7CoAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTEzIFNFQyA5NlUxMyBBLTM4ICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U14 SEC 96U14 A-43                          .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDgOiwAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE0IFNFQyA5NlUxNCBBLTQzICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U15 SEC 96U15 A-45                          .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDgRSwAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE1IFNFQyA5NlUxNSBBLTQ1ICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U16 SEC 96U16 A-50                          .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDgKS0AAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE2IFNFQyA5NlUxNiBBLTUwICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U17 SEC 96U17 A-52                          .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDgNC0AAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE3IFNFQyA5NlUxNyBBLTUyICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U18 SEC 96U18 A-55                          .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDg3C0AAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE4IFNFQyA5NlUxOCBBLTU1ICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_60  .VAO_U18A SEC 96U8A A-57                         .SV
+"WebId": "F1DPAWHmhGUTeUqhDTAsENdgDgSlUAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE4QSBTRUMgOTZVOEEgQS01NyAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y"
+
+
+
+
+
+
+
+

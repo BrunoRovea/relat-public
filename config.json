@@ -1,0 +1,13 @@
+{
+    "TSWS": {
+        "url": "https://chi764/TSWS/rest",
+        "token": ""
+    },
+
+    "relat": {
+
+            "url": "https://oshom.itaipu/RELAT_CS/rest/RELAT/",
+            "token":""
+
+        }
+}

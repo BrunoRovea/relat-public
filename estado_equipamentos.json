@@ -1,0 +1,1029 @@
+[
+    {
+        "name": "U01",
+        "tag": "U01     .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgzRYAAAUEktU0lSSVxVMDEgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U01 VELOC",
+                "tag": "U01     .REG_VELOC VELOC UNID MAYOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgMhcAAAUEktU0lSSVxVMDEgICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQVlPUi9JR1VBTCA4MCUgVi5OT00gICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 05U01",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgDyYAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwMSBJTlQgMDVVMDEgQS0wNSAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 45U12",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgISYAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwMS8wMiBJTlQgNDVVMTIgQS0wNiAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            }
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U02",
+        "tag": "U02     .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgvxcAAAUEktU0lSSVxVMDIgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U02 VELOC",
+                "tag": "U02     .REG_VELOC VELOC UNID MAYOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgIBgAAAUEktU0lSSVxVMDIgICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQVlPUi9JR1VBTCA4MCUgVi5OT00gICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 45U12",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgISYAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwMS8wMiBJTlQgNDVVMTIgQS0wNiAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 85U02",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgMiYAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwMiBJTlQgODVVMDIgQS0wNyAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            }
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U03",
+        "tag": "U03     .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgohgAAAUEktU0lSSVxVMDMgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U03 VELOC",
+                "tag": "U03     .REG_VELOC VELOC UNID MAYOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgAhkAAAUEktU0lSSVxVMDMgICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQVlPUi9JR1VBTCA4MCUgVi5OT00gICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 05U03",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgAicAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwMyBJTlQgMDVVMDMgQS0xMCAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 45U34",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgGicAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwMy8wNCBJTlQgNDVVMzQgQS0xMSAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            }
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U04",
+        "tag": "U04     .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgbRkAAAUEktU0lSSVxVMDQgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U04 VELOC",
+                "tag": "U04     .REG_VELOC VELOC UNID MAYOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgzxkAAAUEktU0lSSVxVMDQgICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQVlPUi9JR1VBTCA4MCUgVi5OT00gICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 85U04",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgMicAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwNCBJTlQgODVVMDQgQS0xMiAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 45U34",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgGicAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwMy8wNCBJTlQgNDVVMzQgQS0xMSAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            }
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U05",
+        "tag": "U05     .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgMBoAAAUEktU0lSSVxVMDUgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U05 VELOC",
+                "tag": "U05     .REG_VELOC VELOC UNID MAYOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgkBoAAAUEktU0lSSVxVMDUgICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQVlPUi9JR1VBTCA4MCUgVi5OT00gICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 05U05",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgKSkAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwNSBJTlQgMDVVMDUgQS0xNyAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 45U56",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgOykAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwNS8wNiBJTlQgNDVVNTYgQS0xOCAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            }
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U06",
+        "tag": "U06     .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgGhsAAAUEktU0lSSVxVMDYgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U06 VELOC",
+                "tag": "U06     .REG_VELOC VELOC UNID MAYOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgfBsAAAUEktU0lSSVxVMDYgICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQVlPUi9JR1VBTCA4MCUgVi5OT00gICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 85U06",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgTCkAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwNiBJTlQgODVVMDYgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 45U56",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgOykAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwNS8wNiBJTlQgNDVVNTYgQS0xOCAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            }
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U07",
+        "tag": "U07     .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg3xsAAAUEktU0lSSVxVMDcgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U07 VELOC",
+                "tag": "U07     .REG_VELOC VELOC UNID MAYOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgPxwAAAUEktU0lSSVxVMDcgICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQVlPUi9JR1VBTCA4MCUgVi5OT00gICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 05U07",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgyicAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwNyBJTlQgMDVVMDcgQS0yMiAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 45U78",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg3CcAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwNy8wOCBJTlQgNDVVNzggQS0yMyAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            }
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U08",
+        "tag": "U08     .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgvBwAAAUEktU0lSSVxVMDggICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U08 VELOC",
+                "tag": "U08     .REG_VELOC VELOC UNID MAYOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgHh0AAAUEktU0lSSVxVMDggICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQVlPUi9JR1VBTCA4MCUgVi5OT00gICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 85U08",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg7ScAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwOCBJTlQgODVVMDggICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 45U78",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg3CcAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwNy8wOCBJTlQgNDVVNzggQS0yMyAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            }
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U09",
+        "tag": "U09     .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDggR0AAAUEktU0lSSVxVMDkgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U09 VELOC",
+                "tag": "U09     .REG_VELOC VELOC UNID MAYOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg4h0AAAUEktU0lSSVxVMDkgICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQVlPUi9JR1VBTCA4MCUgVi5OT00gICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 05U09",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgASgAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwOSBJTlQgMDVVMDkgQS0yNSAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 45U99",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgGSgAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwOS85QSBJTlQgNDVVOTkgQS0yNiAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            }
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U09A",
+        "tag": "U09A    .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDglToAAAUEktU0lSSVxVOUEgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U09 VELOC",
+                "tag": "U09     .REG_VELOC VELOC UNID MAYOR/IGUAL 90% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgoSUBAAUEktU0lSSVxVOUEgICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQVlPUiA5MCUgViBOT00gICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 85U9A",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgIVIBAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1U5QSBJTlQgODVVOUEgQUJJRVJUTyAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 45U99",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgGSgAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwOS85QSBJTlQgNDVVOTkgQS0yNiAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            }
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U10",
+        "tag": "U10     .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgTB4AAAUEktU0lSSVxVMTAgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNJT05BRE8gICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U10 VELOC",
+                "tag": "U10     .REG_VELOC VELOC UNID MAIOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgrh4AAAUEktU0lSSVxVMTAgICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQUlPUi9JR1VBTCA4MCUgVi5OT00gICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 06U10",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg7ykAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTEwIERJU0ogMDZVMTAgQS0zMSAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 46U01",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgACoAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTEwLzExIERJU0ogNDZVMDEgQS0zMiAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            }
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U11",
+        "tag": "U11     .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgER8AAAUEktU0lSSVxVMTEgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNJT05BRE8gICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U11 VELOC",
+                "tag": "U11     .REG_VELOC VELOC UNID MAIOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgcx8AAAUEktU0lSSVxVMTEgICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQUlPUi9JR1VBTCA4MCUgVi5OT00gICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 86U11",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgESoAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTExIERJU0ogODZVMTEgQS0zMyAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 46U01",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgACoAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTEwLzExIERJU0ogNDZVMDEgQS0zMiAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            } 
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U12",
+        "tag": "U12     .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg3R8AAAUEktU0lSSVxVMTIgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNJT05BRE8gICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U12 VELOC",
+                "tag": "U12     .REG_VELOC VELOC UNID MAIOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgPyAAAAUEktU0lSSVxVMTIgICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQUlPUi9JR1VBTCA4MCUgVi5OT00gICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 06U12",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgTCoAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTEyIERJU0ogMDZVMTIgQS0zNiAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 46U23",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgXSoAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTEyLzEzIERJU0ogNDZVMjMgQS0zNyAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            } 
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U13",
+        "tag": "U13     .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgtSAAAAUEktU0lSSVxVMTMgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNJT05BRE8gICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U13 VELOC",
+                "tag": "U13     .REG_VELOC VELOC UNID MAIOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgFyEAAAUEktU0lSSVxVMTMgICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQUlPUi9JR1VBTCA4MCUgVi5OT00gICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 86U13",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgbioAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTEzIERJU0ogODZVMTMgQS0zOCAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 46U23",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgXSoAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTEyLzEzIERJU0ogNDZVMjMgQS0zNyAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            } 
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U14",
+        "tag": "U14     .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDggSEAAAUEktU0lSSVxVMTQgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNJT05BRE8gICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U14 VELOC",
+                "tag": "U14     .REG_VELOC VELOC UNID MAIOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg4yEAAAUEktU0lSSVxVMTQgICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQUlPUi9JR1VBTCA4MCUgVi5OT00gICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 06U14",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDggCsAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE0IERJU0ogMDZVMTQgQS00MyAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 46U45",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgkisAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE0LzE1IERJU0ogNDZVNDUgQS00NCAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U15",
+        "tag": "U15     .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgdyIAAAUEktU0lSSVxVMTUgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNJT05BRE8gICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U15 VELOC",
+                "tag": "U15     .REG_VELOC VELOC UNID MAIOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg3SIAAAUEktU0lSSVxVMTUgICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQUlPUi9JR1VBTCA4MCUgVi5OT00gICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 86U15",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgpCsAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE1IERJU0ogODZVMTUgQS00NSAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 46U45",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgkisAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE0LzE1IERJU0ogNDZVNDUgQS00NCAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            }   
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U16",
+        "tag": "U16     .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgXyMAAAUEktU0lSSVxVMTYgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNJT05BRE8gICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U16 VELOC",
+                "tag": "U16     .REG_VELOC VELOC UNID MAIOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgwCMAAAUEktU0lSSVxVMTYgICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQUlPUi9JR1VBTCA4MCUgVi5OT00gICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 06U16",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgriwAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE2IERJU0ogMDZVMTYgQS01MCAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 46U67",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgvywAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE2LzE3IERJU0ogNDZVNjcgQS01MSAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            }     
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U17",
+        "tag": "U17     .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgPSQAAAUEktU0lSSVxVMTcgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNJT05BRE8gICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U17 VELOC",
+                "tag": "U17     .REG_VELOC VELOC UNID MAIOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgoCQAAAUEktU0lSSVxVMTcgICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQUlPUi9JR1VBTCA4MCUgVi5OT00gICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 86U17",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg0CwAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE3IERJU0ogODZVMTcgQS01MiAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 46U67",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgvywAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE2LzE3IERJU0ogNDZVNjcgQS01MSAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            }    
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U18",
+        "tag": "U18     .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgASUAAAUEktU0lSSVxVMTggICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNJT05BRE8gICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U18 VELOC",
+                "tag": "U18     .REG_VELOC VELOC UNID MAIOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgZCUAAAUEktU0lSSVxVMTggICAgIC5SRUdfVkVMT0MgVkVMT0MgVU5JRCBNQUlPUi9JR1VBTCA4MCUgVi5OT00gICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 06U18",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDglC0AAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE4IERJU0ogMDZVMTggQS01NSAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 46U88",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgqy0AAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE4LzE4QSBESVNKIDQ2VTg4IEEtNTYgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            }   
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U18A",
+        "tag": "U18A    .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg4VQAAAUEktU0lSSVxVMThBICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNJT05BRE8gICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U18A VELOC",
+                "tag": "U18A    .REG_VELOC VELOC UNID MAIOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgeyUBAAUEktU0lSSVxVMThBICAgIC5SRUdfVkVMT0MgVU5JREFERSBNQUlPUiA4MCUgVi4gTk9NICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            },
+            {
+                "name": "INT 86U8A",
+                "tag": "SF6_50  .VANO_U01 INT 05U01 A-05                         .SV",
+                "webid": "",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            },
+            {
+                "name": "INT 46U88",
+                "tag": "SF6_50  .VANO_U01/02 INT 45U12 A-06                      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgqy0AAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE4LzE4QSBESVNKIDQ2VTg4IEEtNTYgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado Disjuntor",
+                "Flag": false
+            }   
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+    {
+        "name": "U18A",
+        "tag": "U18A    .SUPERV/CONTR UN COMANDO DE PARADA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg4VQAAAUEktU0lSSVxVMThBICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJBREEgQUNJT05BRE8gICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U18A VELOC",
+                "tag": "U18A    .REG_VELOC VELOC UNID MAIOR/IGUAL 80% V.NOM      .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgeyUBAAUEktU0lSSVxVMThBICAgIC5SRUdfVkVMT0MgVU5JREFERSBNQUlPUiA4MCUgVi4gTk9NICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Velocidade > 80%",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de Parada",
+        "Flag": true
+    },
+
+
+
+
+
+
+    {
+        "name": "U01",
+        "tag": "U01     .SUPERV/CONTR UN COMANDO DE PARTIDA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgg_kBAAUEktU0lSSVxBRi5PUERULlBST0NFU1NPUy5TVVBFUlZJU0FPX0xJTUlURVMuRVFVSVBBTUVOVE9TLkxJTkhBUy5MSV81MDBLVl9NRC1WSEExLkVTVEFETw",
+        "children": [
+            {
+                "name": "U01  SECCIONADORA",
+                "tag": "SF6_50  .VANO_U01 SEC 95U01 A-05                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgmiYAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwMSBTRUMgOTVVMDEgQS0wNSAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+    {
+        "name": "U02",
+        "tag": "U02     .SUPERV/CONTR UN COMANDO DE PARTIDA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDguxcAAAUEktU0lSSVxVMDIgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDQ0lPTkFETyAgICAuU1Y",
+        "children": [
+            {
+                "name": "U02  SECCIONADORA",
+                "tag": "SF6_50  .VANO_U02 SEC 95U02 A-07                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgpSYAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwMiBTRUMgOTVVMDIgQS0wNyAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+    {
+        "name": "U03",
+        "tag": "U03     .SUPERV/CONTR UN COMANDO DE PARTIDA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgnhgAAAUEktU0lSSVxVMDMgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDQ0lPTkFETyAgICAuU1Y",
+        "children": [
+            {
+                "name": "U03  SECCIONADORA",
+                "tag": "SF6_50  .VANO_U03 SEC 95U03 A-10                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgaCcAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwMyBTRUMgOTVVMDMgQS0xMCAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+    {
+        "name": "U04",
+        "tag": "U04     .SUPERV/CONTR UN COMANDO DE PARTIDA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgaRkAAAUEktU0lSSVxVMDQgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDQ0lPTkFETyAgICAuU1Y",
+        "children": [
+            {
+                "name": "U04  SECCIONADORA",
+                "tag": "SF6_50  .VANO_U04 SEC 95U04 A-12                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgcycAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwNCBTRUMgOTVVMDQgQS0xMiAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+    {
+        "name": "U05",
+        "tag": "U05     .SUPERV/CONTR UN COMANDO DE PARTIDA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgLBoAAAUEktU0lSSVxVMDUgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDQ0lPTkFETyAgICAuU1Y",
+        "children": [
+            {
+                "name": "U05  SECCIONADORA",
+                "tag": "SF6_50  .VANO_U05 SEC 95U05 A-17                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgqykAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwNSBTRUMgOTVVMDUgQS0xNyAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+    {
+        "name": "U06",
+        "tag": "U06     .SUPERV/CONTR UN COMANDO DE PARTIDA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgFhsAAAUEktU0lSSVxVMDYgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDQ0lPTkFETyAgICAuU1Y",
+        "children": [
+            {
+                "name": "U06  SECCIONADORA",
+                "tag": "SF6_50  .VANO_U06 SEC 95U06 A-19                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgtikAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwNiBTRUMgOTVVMDYgQS0xOSAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+    {
+        "name": "U07",
+        "tag": "U07     .SUPERV/CONTR UN COMANDO DE PARTIDA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg2xsAAAUEktU0lSSVxVMDcgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDQ0lPTkFETyAgICAuU1Y",
+        "children": [
+            {
+                "name": "U07  SECCIONADORA",
+                "tag": "SF6_50  .VANO_U07 SEC 95U07 A-22                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDggygAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwNyBTRUMgOTVVMDcgQS0yMiAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+    {
+        "name": "U08",
+        "tag": "U08     .SUPERV/CONTR UN COMANDO DE PARTIDA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDguBwAAAUEktU0lSSVxVMDggICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDQ0lPTkFETyAgICAuU1Y",
+        "children": [
+            {
+                "name": "U08  SECCIONADORA",
+                "tag": "SF6_50  .VANO_U08 SEC 95U08 A-24                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgjigAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwOCBTRUMgOTVVMDggQS0yNCAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+    {
+        "name": "U09",
+        "tag": "U09     .SUPERV/CONTR UN COMANDO DE PARTIDA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgfR0AAAUEktU0lSSVxVMDkgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDQ0lPTkFETyAgICAuU1Y",
+        "children": [
+            {
+                "name": "U09  SECCIONADORA",
+                "tag": "SF6_50  .VANO_U09 SEC 95U09 A-25                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDglSgAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1UwOSBTRUMgOTVVMDkgQS0yNSAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+    {
+        "name": "U9A",
+        "tag": "U9A     .SUPERV/CONTR UN COMANDO DE PARTIDA ACCIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgd58AAAUEktU0lSSVxVOUEgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDQ0lPTkFETyAgICAuU1Y",
+        "children": [
+            {
+                "name": "U9A  SECCIONADORA",
+                "tag": "SF6_50  .VANO_U9A SEC 95U9A A-27                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg_zoAAAUEktU0lSSVxTRjZfNTAgIC5WQU5PX1U5QSBTRUMgOTVVOUEgQS0yNyAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+
+    {
+        "name": "U10",
+        "tag": "U10     .SUPERV/CONTR UN COMANDO DE PARTIDA ACIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgSB4AAAUEktU0lSSVxVMTAgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U9A  SECCIONADORA",
+                "tag": "SF6_60  .VAO_U10 SEC 96U10 A-31                          .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgxCoAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTEwIFNFQyA5NlUxMCBBLTMxICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+
+    
+    {
+        "name": "U11",
+        "tag": "U11     .SUPERV/CONTR UN COMANDO DE PARTIDA ACIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgDR8AAAUEktU0lSSVxVMTEgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U11  SECCIONADORA",
+                "tag": "SF6_60  .VAO_U11 SEC 96U11 A-33                          .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgzyoAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTExIFNFQyA5NlUxMSBBLTMzICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+    {
+        "name": "U12",
+        "tag": "U12     .SUPERV/CONTR UN COMANDO DE PARTIDA ACIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg2R8AAAUEktU0lSSVxVMTIgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U12  SECCIONADORA",
+                "tag": "SF6_60  .VAO_U12 SEC 96U12 A-36                          .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg4SoAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTEyIFNFQyA5NlUxMiBBLTM2ICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+    {
+        "name": "U13",
+        "tag": "U13     .SUPERV/CONTR UN COMANDO DE PARTIDA ACIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgsSAAAAUEktU0lSSVxVMTMgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U13  SECCIONADORA",
+                "tag": "SF6_60  .VAO_U13 SEC 96U13 A-38                          .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg7CoAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTEzIFNFQyA5NlUxMyBBLTM4ICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+    {
+        "name": "U14",
+        "tag": "U14     .SUPERV/CONTR UN COMANDO DE PARTIDA ACIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgfSEAAAUEktU0lSSVxVMTQgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U14  SECCIONADORA",
+                "tag": "SF6_60  .VAO_U14 SEC 96U14 A-43                          .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgOiwAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE0IFNFQyA5NlUxNCBBLTQzICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+    {
+        "name": "U15",
+        "tag": "U15     .SUPERV/CONTR UN COMANDO DE PARTIDA ACIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgcyIAAAUEktU0lSSVxVMTUgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U15  SECCIONADORA",
+                "tag": "SF6_60  .VAO_U15 SEC 96U15 A-45                          .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgRSwAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE1IFNFQyA5NlUxNSBBLTQ1ICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+    {
+        "name": "U16",
+        "tag": "U16     .SUPERV/CONTR UN COMANDO DE PARTIDA ACIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgWyMAAAUEktU0lSSVxVMTYgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U16  SECCIONADORA",
+                "tag": "SF6_60  .VAO_U16 SEC 96U16 A-50                          .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgKS0AAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE2IFNFQyA5NlUxNiBBLTUwICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+    {
+        "name": "U17",
+        "tag": "U17     .SUPERV/CONTR UN COMANDO DE PARTIDA ACIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgOSQAAAUEktU0lSSVxVMTcgICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U17  SECCIONADORA",
+                "tag": "SF6_60  .VAO_U17 SEC 96U17 A-52                          .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgNC0AAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE3IFNFQyA5NlUxNyBBLTUyICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+    {
+        "name": "U18",
+        "tag": "U18     .SUPERV/CONTR UN COMANDO DE PARTIDA ACIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg_SQAAAUEktU0lSSVxVMTggICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U18  SECCIONADORA",
+                "tag": "SF6_60  .VAO_U18 SEC 96U18 A-55                          .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDg3C0AAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE4IFNFQyA5NlUxOCBBLTU1ICAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    },
+    {
+        "name": "U18A",
+        "tag": "U18A    .SUPERV/CONTR UN COMANDO DE PARTIDA ACIONADO     .SV",
+        "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgNqIAAAUEktU0lSSVxVMThBICAgIC5TVVBFUlYvQ09OVFIgVU4gQ09NQU5ETyBERSBQQVJUSURBIEFDSU9OQURPICAgICAuU1Y",
+        "children": [
+            {
+                "name": "U18A  SECCIONADORA",
+                "tag": "SF6_60  .VAO_U18A SEC 96U8A A-57                         .SV",
+                "webid": "F1DPAWHmhGUTeUqhDTAsENdgDgSlUAAAUEktU0lSSVxTRjZfNjAgIC5WQU9fVTE4QSBTRUMgOTZVOEEgQS01NyAgICAgICAgICAgICAgICAgICAgICAgICAuU1Y",
+                "children": [],
+                "Tipo Ocorrencia": "Estado seccionadora",
+                "Flag": false
+            }  
+        ],
+        "Tipo Ocorrencia": "Comando de partida",
+        "Flag": true
+    }
+     
+]
