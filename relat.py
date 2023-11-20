@@ -1,12 +1,3 @@
-
-# Json do estado disjuntor 18A ñ funcionando
-# https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U9A INT 85U9A ABIERTO                      .SV
-# https://pi-api-vm01/piwebapi/attributes?path=\\PI-SIRI\SF6_50  .VANO_U18A INT 86U8A ABIERTO                     .SV
-
-
-
-# import sys
-# sys.path.append(os.path.join(os.path.dirname(__file__), "libs_opso"))
 import os
 
 from client import websocket_client
@@ -120,8 +111,8 @@ async def message_callback(message):
     # No caso da webid teste, o valor de comutação é igual a 2
     # No comanod de parada deve-se testar para os valores 'SI' ou 'SIM'
 
-    if resp['Items'][0]['Items'][0]['Value'] == 2:
-    # if resp['Items'][0]['Items'][0]['Value']['Name'] == 'SIM' or 'SI':
+    # if resp['Items'][0]['Items'][0]['Value'] == 2:
+    if resp['Items'][0]['Items'][0]['Value']['Name'] == 'SIM' or 'SI':
     
         # Abre o arquivo estado_equipamentos novamente
         with open('estado_equipamentos.json', 'r') as file:
@@ -190,7 +181,7 @@ async def message_callback(message):
                             TimestampOcorrencia=datetime.now(),
                             TipoOcorrencia_DescricaoPT="Teste RELAT PT",
                             # 438 caracteres/linha
-                            DescricaoOcorrencia='Respondendo a solicitação do sistema, unidade em MANUAL no CAG/CAT e início da redução de carga. <br> <br>' + temp[11:21] + ' - Acionado Comando de Parada da Unidade. <br> <br>xx:xx - Unidade Parada. <br> <br><u>Manobras operacionais:</u><ul><li>PWB-' + equipamento['name'] + ': Selecionada bomba 02 como principal.</li><li>KH-xx: Desconectada central evaporativa.</li></li></ul>Despacho de Carga - xxxxx.'
+                            DescricaoOcorrencia='Respondendo a solicitação do sistema, unidade em MANUAL no CAG/CAT e início da redução de carga. <br> <br>' + temp[11:20] + ' - Acionado Comando de Parada da Unidade. <br> <br>xx:xx - Unidade Parada. <br> <br><u>Manobras operacionais:</u><ul><li>PWB-' + equipamento['name'] + ': Selecionada bomba 02 como principal.</li><li>KH-'+ equipamento['KH'] +': Desconectada central evaporativa.</li></li></ul>Despacho de Carga - xxxxx.'
                             )
                         ## Cadastrando Ocorrência
                         cadastro = relat.insert.cadastrarOcorrenciaOPU(ocorrencia)
